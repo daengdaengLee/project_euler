@@ -8,3 +8,4 @@
 4. [Largest palindrome product](https://github.com/daengdaengLee/project_euler/tree/master/problem4)
 5. [Smallest multiple](https://github.com/daengdaengLee/project_euler/tree/master/problem5)
 6. [Sum square difference](https://github.com/daengdaengLee/project_euler/tree/master/problem6)
+7. [10001st prime](https://github.com/daengdaengLee/project_euler/tree/master/problem7)

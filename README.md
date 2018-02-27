@@ -10,3 +10,4 @@
 6. [Sum square difference](https://github.com/daengdaengLee/project_euler/tree/master/problem6)
 7. [10001st prime](https://github.com/daengdaengLee/project_euler/tree/master/problem7)
 8. [Largest product in a series](https://github.com/daengdaengLee/project_euler/tree/master/problem8)
+9. [Special Pythagorean triplet](https://github.com/daengdaengLee/project_euler/tree/master/problem9)
